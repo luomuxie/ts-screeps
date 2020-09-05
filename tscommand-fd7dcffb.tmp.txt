@@ -1,0 +1,1 @@
+src\main.ts --removeComments --rootDir src/ --target ES5 --outDir dist/
