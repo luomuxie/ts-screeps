@@ -8,6 +8,4 @@ export class PlayerData{
     }
 
     public spawnName = "Spawn1";
-    creeps:Map<number,string> = new Map();        
-    static spawnName: any;
 }
